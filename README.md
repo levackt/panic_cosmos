@@ -1,8 +1,4 @@
 # PANIC for Cosmos
-=======
-# Python alerter for monitoring the Secret Network, thanks to Simply VC
-
-# P.A.N.I.C. by Simply VC
 
 <img src="./doc/IMG_PANIC.png" alt="PANIC Logo"/>
 
